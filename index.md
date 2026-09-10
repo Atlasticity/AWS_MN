@@ -20,7 +20,7 @@ return MCPClient(lambda: streamable_http_client(EXAMPLE_MCP_ENDPOINT))
 
 ### Lab 3 - Step 4
 
-Added Code Snippet should look this:
+For app/CustomerSupport/mcp_client/client.py // Added Code Snippet should look this:
 
 ```
 def get_gateway_mcp_client() -> MCPClient | None:
@@ -34,7 +34,7 @@ def get_gateway_mcp_client() -> MCPClient | None:
 
 ### Lab 4 - Step 5
 
-Fixed File:
+app/CustomerSupport/mcp_client/client.py // Fixed File:
 
 ```
 import os
