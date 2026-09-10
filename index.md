@@ -1,8 +1,31 @@
 # AWS_MN Meetup 2026-09-10
+# Team
+Ryan Lindstedt
+https://www.linkedin.com/in/ryanlindstedt/
+
+John Spaulding
+https://www.linkedin.com/in/jospaulding/
+
+Brett Dykes
+https://www.linkedin.com/in/brett-i-dykes/
+
+Max Anderson
+https://www.linkedin.com/in/mxande/
+
+Paul DeLaria
+https://www.linkedin.com/in/pauldelaria/
+
+Norman Owens
+https://www.linkedin.com/in/normanowens/
+
+# Slide Deck
+https://github.com/Atlasticity/AWS_MN/blob/main/AWS_MN--2026-09-10.pdf
+
+# Lab
 ## Lab Access
 https://catalog.us-east-1.prod.workshops.aws/join?access-code=99dc-0e999a-5c
 
-## Feel free to ask an Atlasticity team-member if you or stuck!
+**Feel free to ask an Atlasticity team-member if you or stuck!**
 
 ## Gotchas/Issues/Fixes
 
