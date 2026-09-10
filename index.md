@@ -60,3 +60,7 @@ def get_gateway_mcp_client(auth_header: str) -> MCPClient | None:
         return None
     return MCPClient(url=url, headers={"Authorization": auth_header})
 ```
+
+### Lab 6 - Step 2 // Make sure to click the drop down carrot for frontend.py
+
+### Lab 6 - Step 3 // Make sure to click the drop down carrot for index.html
