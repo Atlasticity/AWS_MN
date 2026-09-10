@@ -1,25 +1,19 @@
 # AWS_MN Meetup 2026-09-10
 # Team
-Ryan Lindstedt
-https://www.linkedin.com/in/ryanlindstedt/
+Ryan Lindstedt - [https://www.linkedin.com/in/ryanlindstedt/](https://www.linkedin.com/in/ryanlindstedt/)
 
-John Spaulding
-https://www.linkedin.com/in/jospaulding/
+John Spaulding - [https://www.linkedin.com/in/jospaulding/](https://www.linkedin.com/in/jospaulding/)
 
-Brett Dykes
-https://www.linkedin.com/in/brett-i-dykes/
+Brett Dykes - [https://www.linkedin.com/in/brett-i-dykes/](https://www.linkedin.com/in/brett-i-dykes/)
 
-Max Anderson
-https://www.linkedin.com/in/mxande/
+Max Anderson - [https://www.linkedin.com/in/mxande/](https://www.linkedin.com/in/mxande/)
 
-Paul DeLaria
-https://www.linkedin.com/in/pauldelaria/
+Paul DeLaria - [https://www.linkedin.com/in/pauldelaria/](https://www.linkedin.com/in/pauldelaria/)
 
-Norman Owens
-https://www.linkedin.com/in/normanowens/
+Norman Owens - [https://www.linkedin.com/in/normanowens/](https://www.linkedin.com/in/normanowens/)
 
 # Slide Deck
-https://github.com/Atlasticity/AWS_MN/blob/main/AWS_MN--2026-09-10.pdf
+[https://github.com/Atlasticity/AWS_MN/blob/main/AWS_MN--2026-09-10.pdf](AWS_MN--2026-09-10.pdf)
 
 # Lab
 ## Lab Access
