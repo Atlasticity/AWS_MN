@@ -34,6 +34,35 @@ def get_gateway_mcp_client() -> MCPClient | None:
     return MCPClient(lambda: streamable_http_client(url))
 ```
 
+The full client.py should be:
+```
+import os
+import logging
+from mcp.client.streamable_http import streamable_http_client
+from strands.tools.mcp.mcp_client import MCPClient
+
+logger = logging.getLogger(__name__)
+
+# ExaAI MCP endpoint for web search
+EXAMPLE_MCP_ENDPOINT = "https://mcp.exa.ai/mcp"
+
+
+def get_streamable_http_mcp_client() -> MCPClient:
+    """Returns an MCP Client for Exa AI web search"""
+    return MCPClient(lambda: streamable_http_client(EXAMPLE_MCP_ENDPOINT))
+
+
+def get_gateway_mcp_client() -> MCPClient | None:
+    """Returns an MCP Client for AgentCore Gateway, if configured"""
+    url = os.environ.get("AGENTCORE_GATEWAY_MY_GATEWAY_URL")
+    if not url:
+        logger.warning("Gateway URL not set — gateway tools unavailable")
+        return None
+    return MCPClient(lambda: streamable_http_client(url))
+```
+**NOTE:** If you have previously deployed with ```agentcore deploy -y -v``` you'll need to do it again after making the changes.
+
+
 ## if you are running into errors, make sure you saved the changes to the MCPClient to streamable_http_client
 
 ### Lab 4 - Step 5 - If Step 5 gives you issues, it should be ok to just skip it and move on
