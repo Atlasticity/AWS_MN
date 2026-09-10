@@ -63,7 +63,7 @@ def get_gateway_mcp_client() -> MCPClient | None:
 **NOTE:** If you have previously deployed with ```agentcore deploy -y -v``` you'll need to do it again after making the changes.
 
 
-## if you are running into errors, make sure you saved the changes to the MCPClient to streamable_http_client
+**NOTE:** If you are running into errors, make sure you saved the changes to the **MCPClient** to **streamable_http_client**
 
 ### Lab 4 - Step 5 - If Step 5 gives you issues, it should be ok to just skip it and move on
 
