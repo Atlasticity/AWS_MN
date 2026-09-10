@@ -1,6 +1,6 @@
 # AWS_MN Meetup 2026-09-10
 ## Lab Access
-https://future.link
+[https://future.link](https://catalog.us-east-1.prod.workshops.aws/join?access-code=99dc-0e999a-5c)
 
 ## Issues
 
