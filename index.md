@@ -32,7 +32,7 @@ def get_gateway_mcp_client() -> MCPClient | None:
     return MCPClient(lambda: streamable_http_client(url))
 ```
 
-### Lab 4 - Step 5
+### Lab 4 - Step 5 - If Step 5 gives you issues, it should be ok to just skip it and move on
 
 app/CustomerSupport/mcp_client/client.py // Fixed File:
 
