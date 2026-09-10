@@ -2,7 +2,7 @@
 ## Lab Access
 https://catalog.us-east-1.prod.workshops.aws/join?access-code=99dc-0e999a-5c
 
-## Issues
+## Gotchas/Issues/Fixes
 
 ### Lab 1 - Step 4
 
